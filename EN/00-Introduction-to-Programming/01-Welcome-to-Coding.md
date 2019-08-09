@@ -1,11 +1,4 @@
 [slide]
-[html]
-<style> 
-.slide > p {
-  margin-bottom: 0;
-}
-</style>
-[/html]
 
 # What is Coding?
 **Coding** means to give **commands** to tell the computer what to do
@@ -20,6 +13,14 @@ Console.WriteLine("First command");
 Console.WriteLine("Second command");
 Console.WriteLine("Third command");
 ```
+[html]
+<style> 
+.slide > p {
+  margin-bottom: 0 !important;
+}
+</style>
+[/html]
+
 [/slide]
 
 [slide]
