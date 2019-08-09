@@ -1,4 +1,12 @@
 [slide]
+[html]
+<style> 
+.slide > p {
+  margin-bottom: 0;
+}
+</style>
+[/html]
+
 # What is Coding?
 **Coding** means to give **commands** to tell the computer what to do
 
